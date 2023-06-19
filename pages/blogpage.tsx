@@ -13,22 +13,23 @@ type Props = {
 
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0];
-  const morePosts = allPosts.slice(1);
+  const morePosts = allPosts;
   return (
     <>
       <Layout>
         <Head>
-          <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
+          <title>{`Niel Reitmann`}</title>
         </Head>
         <Container>
-          {heroPost && (
+          {/* {heroPost && (
             <HeroPost
               title={heroPost.title}
               date={heroPost.date}
               slug={heroPost.slug}
             />
           )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          {morePosts.length > 0 && } */}
+          <MoreStories posts={morePosts} />
         </Container>
       </Layout>
     </>
