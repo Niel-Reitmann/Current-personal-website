@@ -48,11 +48,11 @@ export default function Home() {
             .
           </div>
           <div className="flex flex-wrap flex-row justify-start items-left gap-5 sm:gap-12">
-            <a className="text-gray-500" href="/story.html">
+            {/* <a className="text-gray-500" href="/story.html">
               <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition-colors duration-200 ease-in">
                 Story
               </div>
-            </a>
+            </a> */}
             <a
               className="text-gray-500"
               href="https://www.linkedin.com/in/niel-reitmann/"
@@ -99,7 +99,7 @@ export default function Home() {
                     <p className="projtitle m-1 text-base lg:text-lg">
                       Startmate
                     </p>
-                    <p className="projdesc m-1 text-sm">
+                    <p className="projdesc m-1 text-sm pr-2">
                       The epicentre for startup ambition across Australia and
                       New Zealand.{" "}
                     </p>
@@ -127,7 +127,7 @@ export default function Home() {
                     <p className="projtitle m-1 text-base lg:text-lg">
                       Flaming Galahs
                     </p>
-                    <p className="projdesc m-1 text-sm">
+                    <p className="projdesc m-1 text-sm pr-2">
                       A technology collective exclusively for Australia's
                       university students.
                     </p>
@@ -155,7 +155,7 @@ export default function Home() {
                     <p className="projtitle m-1 text-base lg:text-lg">
                       Travelator
                     </p>
-                    <p className="projdesc m-1 text-sm">
+                    <p className="projdesc m-1 text-sm pr-2">
                       Pioneering the future of tourism influencer marketing.
                     </p>
                   </div>
@@ -179,7 +179,7 @@ export default function Home() {
                 </div>
                 <div className="flex flex-col flex-grow-0 flex-basis-60 pl-2">
                   <p className="projtitle m-1 text-base lg:text-lg">UQIES</p>
-                  <p className="projdesc m-1 text-sm">
+                  <p className="projdesc m-1 text-sm pr-2">
                     The most influential entrepreneurship society at The
                     University of Queensland.
                   </p>
