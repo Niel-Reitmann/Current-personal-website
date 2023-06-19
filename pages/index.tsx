@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <div className="w-full min-h-screen text-gray-500 flex flex-col justify-center items-center bg-white">
-        <div className="wrapper flex flex-col justify-center min-h-screen w-960 px-5 gap-6 md:gap-10 md:px-0 overflow-x-hidden">
+        <div className="flex flex-col w-1/2 justify-center min-h-screen px-5 gap-6 md:gap-10 md:px-0 ">
           <div className="introheader text-5xl font-light">
             My name is Niel Reitmann. I'm currently a Growth Associate at{" "}
             <a
@@ -85,17 +85,17 @@ export default function Home() {
           </div>
 
           <div className="projects w-full flex flex-wrap justify-between align-items">
-            <div className="flex flex-wrap gap-4 justify-between">
-              <div className="flex md:w-45 w-100">
+            <div className="flex flex-wrap gap-8 justify-between">
+              <div className="flex basis-[46%] w-100">
                 <div className=" text-gray-500 flex justify-center items-center">
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
-                      className="h-75 w-75 max-w-none border-2 border-gray-400 rounded-2xl"
-                      src="/images/SmLogo.jpeg"
+                      className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
+                      src="./SmLogo.jpeg"
                       alt="Project 1"
                     />
                   </div>
-                  <div className="flex flex-col flex-grow-0 flex-basis-60%">
+                  <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
                     <p className="projtitle m-1 text-base lg:text-lg">
                       Startmate
                     </p>
@@ -104,7 +104,7 @@ export default function Home() {
                       New Zealand.{" "}
                     </p>
                   </div>
-                  <div className="viewbutton flex justify-center items-center flex-grow-0 flex-basis-20 text-sm">
+                  <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
                     <a href="https://www.startmate.com/?utm_source=Google&utm_medium=NielWebsite&utm_campaign=NielWebsite">
                       <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
                         View
@@ -114,16 +114,16 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex w-full md:w-45 w-100">
+              <div className="flex basis-[46%] w-full ">
                 <div className="text-gray-500 flex justify-center items-center">
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
-                      className="h-75 w-75 max-w-none border-2 border-gray-400 rounded-2xl"
-                      src="/images/Flaming Galah Logo.png"
+                      className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
+                      src="./Flaming Galah Logo.png"
                       alt="Project 2"
                     />
                   </div>
-                  <div className="flex flex-col flex-grow-0 flex-basis-60%">
+                  <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
                     <p className="projtitle m-1 text-base lg:text-lg">
                       Flaming Galahs
                     </p>
@@ -132,7 +132,7 @@ export default function Home() {
                       university students.
                     </p>
                   </div>
-                  <div className="viewbutton flex justify-center items-center flex-grow-0 flex-basis-20 text-sm">
+                  <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
                     <a href="https://galah.community/">
                       <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
                         View
@@ -142,16 +142,16 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex w-full md:w-45 w-100">
+              <div className="flex basis-[46%] w-full ">
                 <div className="text-gray-500 flex justify-center items-center">
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
-                      className="h-75 w-75 max-w-none border-2 border-gray-400 rounded-2xl"
-                      src="/images/Travelator1by1.png"
+                      className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
+                      src="./Travelator1by1.png"
                       alt="Project 3"
                     />
                   </div>
-                  <div className="flex flex-col flex-grow-0 flex-basis-60%">
+                  <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
                     <p className="projtitle m-1 text-base lg:text-lg">
                       Travelator
                     </p>
@@ -159,7 +159,7 @@ export default function Home() {
                       Pioneering the future of tourism influencer marketing.
                     </p>
                   </div>
-                  <div className="viewbutton flex justify-center items-center flex-grow-0 flex-basis-20 text-sm">
+                  <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
                     <a href="https://youtu.be/2agY80N9i4w">
                       <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
                         View
@@ -169,29 +169,27 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex w-full md:w-45 w-100">
-                <div className="text-gray-500 flex justify-center items-center">
-                  <div className="project h-full flex justify-start items-center min-w-100 flex-basis-0 sm:flex-1-0-10">
-                    <img
-                      className="h-75 w-75 max-w-none border-2 border-gray-400 rounded-2xl"
-                      src="/images/UQIESlogo.png"
-                      alt="Project 3"
-                    />
-                  </div>
-                  <div className="flex flex-col flex-grow-0 flex-basis-60">
-                    <p className="projtitle m-1 text-base lg:text-lg">UQIES</p>
-                    <p className="projdesc m-1 text-sm">
-                      The most influential entrepreneurship society at The
-                      University of Queensland.
-                    </p>
-                  </div>
-                  <div className="viewbutton flex justify-center items-center flex-grow-0 flex-basis-20 text-sm">
-                    <a href="https://www.facebook.com/uqiesociety/">
-                      <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
-                        View
-                      </div>
-                    </a>
-                  </div>
+              <div className="flex basis-[46%] w-full text-gray-500 flex justify-center items-center">
+                <div className="project h-full flex justify-start items-center min-w-100 flex-basis-0 sm:flex-1-0-10">
+                  <img
+                    className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
+                    src="./UQIESlogo.png"
+                    alt="Project 3"
+                  />
+                </div>
+                <div className="flex flex-col flex-grow-0 flex-basis-60 pl-2">
+                  <p className="projtitle m-1 text-base lg:text-lg">UQIES</p>
+                  <p className="projdesc m-1 text-sm">
+                    The most influential entrepreneurship society at The
+                    University of Queensland.
+                  </p>
+                </div>
+                <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
+                  <a href="https://www.facebook.com/uqiesociety/">
+                    <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
+                      View
+                    </div>
+                  </a>
                 </div>
               </div>
             </div>
