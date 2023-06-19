@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <>
       <div className="w-full min-h-screen text-gray-500 flex flex-col justify-center items-center bg-white">
-        <div className="flex flex-col w-1/2 justify-center min-h-screen px-5 gap-6 md:gap-10 md:px-0 ">
-          <div className="introheader text-5xl font-light">
+        <div className="flex flex-col w-1/1 sm:w-1/2 justify-center min-h-screen p-5 sm:px-5 gap-6 md:gap-10 md:px-0 ">
+          <div className="introheader text-3xl sm:text-5xl font-light">
             My name is Niel Reitmann. I'm currently a Growth Associate at{" "}
             <a
               href="https://www.startmate.com/?utm_source=Google&utm_medium=NielWebsite&utm_campaign=NielWebsite"
@@ -47,7 +47,7 @@ export default function Home() {
             </a>
             .
           </div>
-          <div className="flex flex-wrap flex-row justify-start items-left gap-5 sm:gap-12">
+          <div className="flex flex-wrap flex-row justify-start items-left gap-3 sm:gap-12">
             {/* <a className="text-gray-500" href="/story.html">
               <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition-colors duration-200 ease-in">
                 Story
@@ -85,8 +85,8 @@ export default function Home() {
           </div>
 
           <div className="projects w-full flex flex-wrap justify-between align-items">
-            <div className="flex flex-wrap gap-8 justify-between">
-              <div className="flex basis-[46%] w-100">
+            <div className="flex flex-wrap gap-4 sm:gap-8 justify-between">
+              <div className="flex sm:basis-[46%] w-100">
                 <div className=" text-gray-500 flex justify-center items-center">
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
@@ -114,7 +114,7 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex basis-[46%] w-full ">
+              <div className="flex sm:basis-[46%] w-full ">
                 <div className="text-gray-500 flex justify-center items-center">
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
@@ -142,7 +142,7 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex basis-[46%] w-full ">
+              <div className="flex sm:basis-[46%] w-full ">
                 <div className="text-gray-500 flex justify-center items-center">
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
@@ -169,7 +169,7 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex basis-[46%] w-full text-gray-500 flex justify-center items-center">
+              <div className="flex sm:basis-[46%] w-full text-gray-500 flex justify-center items-center">
                 <div className="project h-full flex justify-start items-center min-w-100 flex-basis-0 sm:flex-1-0-10">
                   <img
                     className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
