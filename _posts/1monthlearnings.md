@@ -1,6 +1,6 @@
 ---
 title: "1 month learnings"
-date: "2023-05-07"
+date: "2023-03-13"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 author:
@@ -18,7 +18,7 @@ Now I’m working as a Growth Associate at Startmate.
 
 I thought I’d kick off my writing with something light-ish and share some learnings and thoughts that stood out to me over the last few months of stepping into startups and moving cities solo at 19. Particularly things I don’t think are spoken about as commonly.
 
-I’ve skewed this more towards students since that’s where I’m best positioned. Of course, keep in mind that these are my own learnings and based on my limited experience.
+I’ve skewed this more towards students since that’s where I’m best positioned.
 
 **Preserving optionality**
 
@@ -38,11 +38,11 @@ When you are young and your understanding is as limited as it’ll ever be. Be b
 
 **Obsession v Balance**
 
-I hesitate to mention this one just yet because I’m not sure I’ve reached a satisfactory understanding. The question here that I’ve been asking myself is this; does greatness only come from extremes?
+I'm not sure I've reached a great understanding here yet. The question is; does greatness only come from extremes?
 
-I.e. is it necessary to have a constant obsession for your work/career or should you maintain balance with things like exercise, going out, etc. if you want to do something big.
+I.e. is it necessary to have a constant obsession for your work/career or should you always maintain balance with things like exercise, going out, etc. if you want to do something meaningful.
 
-After lots of discussions I’ve reached a point where I see this as less black and white.
+I’ve reached a point where I see this as less black and white.
 
 If you genuinely feel like working on some sort of project and it’s a weekend, if that’s going to give you energy, do it. Don’t let the idea of it being a weekend take that away from you. You’ll probably end up feeling even more shit because you didn’t do it.
 
@@ -50,45 +50,47 @@ I think what adds difficulty to this topic is discipline. How do you know that i
 
 **Imposter syndrome**
 
-Imposter syndrome is a fun one. I knew it would be there but I didn't quite understand its extent. My way of thinking about this is short but does the trick for me.
+Imposter syndrome is a fun one. I knew it would be there but I didn't quite understand its extent. My way of thinking about this is short but usually does the trick for me.
 
 If imposter syndrome isn’t there, you’re probably not in the right environment to experience accelerated growth.
 
-This doesn’t mean you need to always be in this position. I think people can be just as content and satisfied with life without playing the its games. But if you've commited to playing the game, you probably want to always be feeling a level of imposter syndrome.
+This doesn’t mean you need to always be in this position. I think people can be just as content with life without playing its games. But if you've commited to playing the ambition game, you probably want to always be feeling a level of imposter syndrome.
 
-If you aren’t, it could be signal of stagnation/slow growth.
+If you aren’t, it could be signal of stagnated growth.
 
 **Context**
 
-Understanding the history of a startup, the people who work there, the reason why certain things have been done, the strategy, the past strategies, the original founders, failures, even the past employees and leadership, all matter.
+Understanding the history of a startup, the people who work there, the reason why certain things have been done, the strategy, the past strategies, the founders, failures, even the past employees and leadership, all matter.
 
-Don’t just aim to understand your domain, but realise that all these pieces work together and will form your foundation to start building and adding what’s closest to 'unique' or 'new' value.
+Don’t just aim to understand your domain, but realise that all these pieces work together and will form your foundation to start building and adding what’s closest to 'new' value.
 
-I'm feeling that this takes a long time to do, but I’ve seen that it’s worth it if you want to do things well.
+I'm feeling that this takes a long time, but I’ve seen that it’s worth it if you want to do things properly.
 
 **Who you come home to matters**
 
-This one is a little bit different. I’m fortunate to be staying with a group of incredible people. People who I can learn a lot from but also enjoy being around.
+This one is a little bit different but worth a mention. I’m fortunate to be staying with a group of great people. People who I can learn from but also enjoy being around.
 
-This opportunity made itself available because I knew one of them through Twitter, and another through my Flaming Galahs project. First time I've really lived the 'surface area for luck to strike' concept.
+This opportunity made itself available because I knew one of them through Twitter, and another through my Flaming Galahs project. First time I've really lived the 'surface area for luck to strike' idea in a big way.
 
-This is something I’ve become very grateful for. Having this group of people I come home to makes all the difference in quality of life.
+This is something I’ve become very grateful for. Having this group of people I come home to makes all the difference in my quality of life.
 
-My original thinking was that I’d be fine jumping between hostels, but I’m glad I didn’t. My takeaway here is that it’s important to make great friends even before you move. Don’t let yourself be isolated.
+My original thinking was that I’d be fine jumping between hostels, but I’m glad I didn’t. My takeaway here is that it’s important to make connections even before you move. Don’t let yourself be isolated.
 
 **Depend more on your design**
 
-It’s easy to underestimate the power of human adaptation. If you told me three years ago I would be in Australia I’d think it was too big of a shift. If you told me one year ago I’d be deferring and moving to Sydney alone I’d think the same.
+It’s easy to underestimate the power of adaptation. If you told me three years ago I would be in Australia I’d think it was too big of a shift. If you told me one year ago I’d be deferring and moving to Sydney alone I’d think the same.
 
-Most people will go through these changes, or at least be presented with similar relative options. Depend more on your design when you are faced with this. Remember that within a fairly short time of making the change, you’ll be completely used to it. Hedonic adaptation.
+Most people will go through these changes, or at least are presented with similar relative options. Depend more on your design when you are faced with this. Remember that within a fairly short time of making the change, you’ll be completely used to it.
 
-The time it takes to get used to these changes will be proportional to its difference from what you are currently used to, but it’s reliable and worth remembering.
+The time it takes to get used to these changes will be proportional to its difference from what you are currently used to, but it’s a reliable thinking and worth remembering.
 
 **Think critically**
 
-There are things in the startup/tech space you will hear lots of people talk about. It’s quite interesting. It’s like these ideas are zapped to everyones in the startup cliques minds.
+There are things in the startup/tech space you will hear lots of people talk about. It’s quite interesting.
 
 Game theory, mimesis, contrarianism, AI, whatever. Try not to be so plugged into this that you can’t think for yourself. Think about what’s happening, why people are talking about things, and what these things really mean.
+
+Try preserve and develop your own unique thinking where possible.
 
 I hope you were able to take something out of this!
 
