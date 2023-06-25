@@ -61,7 +61,7 @@ export default function Home() {
               className="text-gray-500"
               href="https://www.linkedin.com/in/niel-reitmann/"
             >
-              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition-colors duration-200 ease-in">
+              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
                 LinkedIn
               </div>
             </a>
@@ -69,7 +69,7 @@ export default function Home() {
               className="text-gray-500"
               href="https://twitter.com/NielReitmann"
             >
-              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition-colors duration-200 ease-in">
+              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
                 Twitter
               </div>
             </a>
@@ -77,12 +77,12 @@ export default function Home() {
               className="text-gray-500"
               href="https://github.com/Niel-Reitmann"
             >
-              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition-colors duration-200 ease-in">
+              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
                 GitHub
               </div>
             </a>
             <a className="text-gray-500" href="/blogpage">
-              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition-colors duration-200 ease-in">
+              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
                 Blog
               </div>
             </a>
