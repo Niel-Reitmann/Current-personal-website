@@ -14,7 +14,7 @@ I want to keep this one fairly simple.
 
 It’s rare to see a young person know exactly what they want to do. They either have no idea or they have a few ideas they aren’t sure about.
 
-These ideas aren’t tested properly leading to wasted time and energy.
+These ideas aren’t properly tested leading to wasted time and energy.
 
 I’ve approached this area with a framework. It’s worked for me and I’ve seen it work for others.
 
@@ -26,9 +26,9 @@ It looks roughly like this;
 
 'Best' here meaning the career pathways you are most likely to enjoy/find purpose in.
 
-Use case. Rebecca is 19 coming to the end of a gap year. She developed an interest in self-development while on this break and feels that studying psychology could be the way for her to go deeper. Her parents have successful careers in finance and urge her to move in that direction. When she was young she loved drawing and creating content.
+Use case. Rebecca is 19 coming to the end of a gap year. She developed an interest in self-development while on this break and feels that studying psychology could be the way for her to express this. Her parents have successful careers in finance and urge her to move in that direction. When she was young she loved drawing and creating content.
 
-From this quick reflection, her top career options are as follows; psychology, finance, creative industry.
+From this quick reflection, her top career options look as follows; psychology, finance, creative industry.
 
 The thinking here is to evaluate your life up until this point and come up with a few areas you feel are worth exploring. What work in the past has given you energy? Where do you already have some experience? Where are your curiosities?
 
@@ -68,7 +68,7 @@ Luckily for her, she’s been active on Twitter and LinkedIn posting about her l
 
 She taps into this new network and meets a content creator she admires through a warm introduction. Although the content creator hasn’t publicly listed any avaliable roles, Rebecca has a coffee with them and explains how much of a fan she is.
 
-She walks through her thinking and offers to work for the creator on a project she reckons will help them monetise, emphasising how she is young and hungry to learn.
+She walks through her thinking and offers to work for the creator on a project she believes will help them monetise, emphasising how she is young and hungry to learn.
 
 This leads to a few weeks work. She loves it and goes on to study design where she excels and becomes excited for her future. The way it should be.
 
