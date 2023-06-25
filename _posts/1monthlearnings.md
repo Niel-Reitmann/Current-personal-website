@@ -16,23 +16,23 @@ At the beginning of this year I found myself in Sydney with a weekend of accommo
 
 Now I’m working as a Growth Associate at Startmate.
 
-I thought I’d kick off my writing with something light-ish and share some learnings and thoughts that stood out to me over the last few months of stepping into startups and moving cities solo at 19. Particularly things I don’t think are spoken about as commonly.
+I thought I’d kick off my writing with something light-ish and share some learnings and thoughts that stood out to me over the last few months of stepping into tech and moving cities solo right after turning 19. Particularly things I don’t think are spoken about as commonly.
 
-I’ve skewed this more towards students since that’s where I’m best positioned.
+I’ve skewed this more towards the student audience since that’s where I’m best positioned.
 
 **Preserving optionality**
 
-What I’ve seen in most ambitious students was that they had a fairly clear idea of what pathway makes sense to create a decent career.
+I've seen that most ambitious students already have a vision of what their careers should look like.
 
-I think the problem with this surety is that as a student you are operating out of a very limited understanding of available options. You are adding structure that will impact your whole life based on the information you’ve gathered between the ages of 0 and 18-25.
+The problem with this surety is that as a student you are operating out of a very limited understanding of available options. You are chosing to internalise a narrative that will impact your whole life based on the information you’ve gathered between the ages of 0 and 18-25.
 
-The alternative is to preserve optionality where possible. This includes being very careful what narratives you choose to internalise. An example of a narrative might be that corporate is bad, startups are good. Uni is bad, work is good. I’m non-technical. I’m technical. Etc.
+An example of a narrative might be that corporate is bad, startups are good. Uni is bad, work is good. I’m non-technical. I’m technical. Etc.The alternative is to preserve a level of optionality where possible.
 
 An analogy;
 
-If you are going on a trip and have your exact timeline and destination schedule planned, you're getting rid of all the other potential options that you might have come across with less rigidity. Some of these destinations you didn't even know existed could have been the best.
+If you are going on a trip and have your whole schedule planned day by day, you're getting rid of all the other options that you might have come across with less rigidity. Some of these destinations you didn't even know existed could have been the best.
 
-Rather, every decision should, in a perfect world, end in a net positive of new doors opened (more overall exposure, not less). At least while you are in your teenage years.
+Rather, every decision should, in a perfect world, end in a net positive of new doors opened (more exposure, not less). At least while you are fairly young.
 
 When you are young and your understanding is as limited as it’ll ever be. Be bold, don’t buy too deeply into many narratives, and be concious of not letting your environment determine your direction.
 
@@ -68,21 +68,21 @@ I'm feeling that this takes a long time, but I’ve seen that it’s worth it if
 
 **Who you come home to matters**
 
-This one is a little bit different but worth a mention. I’m fortunate to be staying with a group of great people. People who I can learn from but also enjoy being around.
+This one is a little bit different but worth a mention. I’m fortunate to be staying with a great group of people. People who I can learn from but also enjoy being around.
 
 This opportunity made itself available because I knew one of them through Twitter, and another through my Flaming Galahs project. First time I've really lived the 'surface area for luck to strike' idea in a big way.
 
-This is something I’ve become very grateful for. Having this group of people I come home to makes all the difference in my quality of life.
+I’ve become very grateful for this. Having these people I can come home to makes all the difference in my quality of life.
 
-My original thinking was that I’d be fine jumping between hostels, but I’m glad I didn’t. My takeaway here is that it’s important to make connections even before you move. Don’t let yourself be isolated.
+My original thinking was that I’d be fine jumping between hostels, but I’m glad I didn’t. My takeaway here is that it’s important to make connections even before you move. Don’t let yourself become isolated.
 
 **Depend more on your design**
 
-It’s easy to underestimate the power of adaptation. If you told me three years ago I would be in Australia I’d think it was too big of a shift. If you told me one year ago I’d be deferring and moving to Sydney alone I’d think the same.
+It’s easy to underestimate adaptation. If you told me three years ago I would be in Australia I’d think its too big of a shift. If you told me one year ago I’d be deferring and moving to Sydney alone I’d likely think the same.
 
-Most people will go through these changes, or at least are presented with similar relative options. Depend more on your design when you are faced with this. Remember that within a fairly short time of making the change, you’ll be completely used to it.
+Most people will go through these changes, or at least be presented with similar relative options. Depend more on your design when you are faced with this. Remember that within a fairly short period time after making the change, you’ll be completely used to it.
 
-The time it takes to get used to these changes will be proportional to its difference from what you are currently used to, but it’s a reliable thinking and worth remembering.
+The time it takes to get used to these changes will be proportional to its difference from what you are currently used to, but it’s a reliable thinking and worth being more concious of.
 
 **Think critically**
 
@@ -90,8 +90,6 @@ There are things in the startup/tech space you will hear lots of people talk abo
 
 Game theory, mimesis, contrarianism, AI, whatever. Try not to be so plugged into this that you can’t think for yourself. Think about what’s happening, why people are talking about things, and what these things really mean.
 
-Try preserve and develop your own unique thinking where possible.
+Try preserve and develop your own unique thoughts where possible.
 
 I hope you were able to take something out of this!
-
-Thanks for reading.
