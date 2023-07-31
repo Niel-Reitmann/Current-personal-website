@@ -12,68 +12,10 @@ export default function Home() {
         <link href="index.css" rel="stylesheet" />
       </Head>
 
-      <div>
-        <article className="thumb b">
-          <a
-            className="thumb-content"
-            href=""
-            rel="noreferrer"
-            aria-label="View Feature"
-          >
-            <h1 className="thumb-title">Sana Sleep Mask</h1>
-            <h2 className="thumb-subtitle">Office for Product Design</h2>
-            <figure className="thumb-container">
-              <Image
-                className="thumbnail-image"
-                src=""
-                alt=""
-                width={600}
-                height={400}
-              />
-            </figure>
-          </a>
-        </article>
-        <article className="thumb b">
-          <a
-            className="thumb-content"
-            href=""
-            rel="noreferrer"
-            aria-label="View Feature"
-          >
-            <h1 className="thumb-title">Sana Sleep Mask</h1>
-            <h2 className="thumb-subtitle">Office for Product Design</h2>
-            <figure className="thumb-container">
-              <Image
-                className="thumbnail-image"
-                src=""
-                alt=""
-                width={600}
-                height={400}
-              />
-            </figure>
-          </a>
-        </article>
-        <article className="thumb b">
-          <a
-            className="thumb-content"
-            href=""
-            rel="noreferrer"
-            aria-label="View Feature"
-          >
-            <h1 className="thumb-title">Sana Sleep Mask</h1>
-            <h2 className="thumb-subtitle">Office for Product Design</h2>
-            <figure className="thumb-container">
-              <Image
-                className="thumbnail-image"
-                src=""
-                alt=""
-                width={600}
-                height={400}
-              />
-            </figure>
-          </a>
-        </article>
-        {/* Rest of the articles go here */}
+      <div className="bg-red">
+        <div className="bg-red"></div>
+        <div></div>
+        <div></div>
       </div>
     </>
   );
