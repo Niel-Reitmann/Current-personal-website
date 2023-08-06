@@ -6,6 +6,9 @@ import { getAllPosts } from "../lib/api";
 import Head from "next/head";
 import { CMS_NAME } from "../lib/constants";
 import Post from "../interfaces/post";
+import { useRouter } from "next/router";
+import ErrorPage from "next/error";
+import BlogHeader from "../components/blogheader";
 
 type Props = {
   allPosts: Post[];
@@ -29,6 +32,7 @@ export default function Index({ allPosts }: Props) {
             />
           )}
           {morePosts.length > 0 && } */}
+          <BlogHeader />
           <MoreStories posts={morePosts} />
         </Container>
       </Layout>
