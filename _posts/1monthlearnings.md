@@ -26,7 +26,7 @@ I've seen that most ambitious students already have a vision of what their caree
 
 The problem with this surety is that as a student you are operating out of a very limited understanding of available options. You are chosing to internalise a narrative that will impact your whole life based on the information you’ve gathered between the ages of 0 and 18-25.
 
-An example of a narrative might be that corporate is bad, startups are good. Uni is bad, work is good. I’m non-technical. I’m technical. Etc.The alternative is to preserve a level of optionality where possible.
+An example of a narrative might be that corporate is bad, startups are good. Uni is bad, work is good. I’m non-technical. I’m technical. Etc. The alternative is to preserve a level of optionality where possible.
 
 An analogy;
 
@@ -34,17 +34,17 @@ If you are going on a trip and have your whole schedule planned day by day, you'
 
 Rather, every decision should, in a perfect world, end in a net positive of new doors opened (more exposure, not less). At least while you are fairly young.
 
-When you are young and your understanding is as limited as it’ll ever be. Be bold, don’t buy too deeply into many narratives, and be concious of not letting your environment determine your direction.
+Be bold, don’t buy too deeply into many narratives, and be concious of not letting your environment determine your direction.
 
 **Obsession v Balance**
 
 I'm not sure I've reached a great understanding here yet. The question is; does greatness only come from extremes?
 
-I.e. is it necessary to have a constant obsession for your work/career or should you always maintain balance with things like exercise, going out, etc. if you want to do something meaningful.
+I.e. is it necessary to have a constant obsession for your work/career or should you always maintain balance with things like exercise, going out, etc. if you want to do something novel.
 
 I’ve reached a point where I see this as less black and white.
 
-If you genuinely feel like working on some sort of project and it’s a weekend, if that’s going to give you energy, do it. Don’t let the idea of it being a weekend take that away from you. You’ll probably end up feeling even more shit because you didn’t do it.
+If you genuinely feel like working on some sort of project and it’s a weekend, if that’s going to give you energy, do it. Don’t let the idea of it being a weekend take that away from you. You’ll probably end up feeling worse because you didn’t do it.
 
 I think what adds difficulty to this topic is discipline. How do you know that if you don’t want to do something, it’s not just out of laziness? I reckon that is something you just have to figure out overtime by understanding yourself and building decent systems into your life.
 
@@ -58,13 +58,15 @@ This doesn’t mean you need to always be in this position. I think people can b
 
 If you aren’t, it could be signal of stagnated growth.
 
+It then becomes more a question of how you handle imposter syndrome. Do you let it discourage you, or do you frame it in a way that makes you feel you're in the right place.
+
 **Context**
 
 Understanding the history of a startup, the people who work there, the reason why certain things have been done, the strategy, the past strategies, the founders, failures, even the past employees and leadership, all matter.
 
 Don’t just aim to understand your domain, but realise that all these pieces work together and will form your foundation to start building and adding what’s closest to 'new' value.
 
-I'm feeling that this takes a long time, but I’ve seen that it’s worth it if you want to do things properly.
+This takes a long time, but I’ve seen that it’s worth it if you want to do things well.
 
 **Who you come home to matters**
 
