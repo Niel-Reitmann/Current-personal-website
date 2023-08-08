@@ -28,7 +28,7 @@ Treat it almost like you'd treat a product in testing.
 
 'Best' here meaning the career pathways you are most likely to find purpose in.
 
-Use case. Rebecca is 19 coming to the end of a gap year. She developed an interest in self-development while on this break and feels that studying psychology could be the way for her to express this. Her parents have successful careers in finance and urge her to move in that direction. When she was young she loved drawing and creating content.
+Example. Rebecca is 19 coming to the end of a gap year. She developed an interest in self-development while on this break and feels that studying psychology could be the way for her to express this. Her parents have successful careers in finance and urge her to move in that direction. When she was young she loved drawing and creating content.
 
 From this quick reflection, her top career options look as follows; psychology, finance, creative industry.
 
