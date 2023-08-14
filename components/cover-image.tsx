@@ -1,17 +1,17 @@
 import cn from "classnames";
 import Link from "next/link";
+import Image from "next/image";
 
 type Props = {
   title: string;
+  src: string;
   slug?: string;
 };
 
-const CoverImage = ({ title, slug }: Props) => {
-  const imagePath = "/assets/CoverImage.jpg"; // Path to the image in the public directory
-
+const CoverImage = ({ title, src, slug }: Props) => {
   const image = (
-    <img
-      src={imagePath}
+    <Image
+      src={src}
       alt={`Cover Image for ${title}`}
       className={cn("shadow-sm w-full", {
         "hover:shadow-lg transition-shadow duration-200": slug,
@@ -20,7 +20,6 @@ const CoverImage = ({ title, slug }: Props) => {
       height={630}
     />
   );
-
   return (
     <div className="sm:mx-0">
       {slug ? (
