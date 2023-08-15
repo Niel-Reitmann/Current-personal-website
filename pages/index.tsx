@@ -52,11 +52,6 @@ export default function Home() {
             .
           </div>
           <div className="flex flex-wrap flex-row justify-start items-left gap-3 sm:gap-12">
-            {/* <a className="text-gray-500" href="/story">
-              <div className="social-btn inline-flex relative items-center font-normal rounded-md shadow-sm px-6 py-1 transition-colors duration-200 ease-in">
-                Story
-              </div>
-            </a> */}
             <a
               className="text-gray-500"
               href="https://www.linkedin.com/in/niel-reitmann/"

@@ -24,14 +24,6 @@ export default function Index({ allPosts }: Props) {
           <title>{`Niel Reitmann`}</title>
         </Head>
         <Container>
-          {/* {heroPost && (
-            <HeroPost
-              title={heroPost.title}
-              date={heroPost.date}
-              slug={heroPost.slug}
-            />
-          )}
-          {morePosts.length > 0 && } */}
           <BlogHeader />
           <MoreStories posts={morePosts} />
         </Container>
