@@ -18,7 +18,7 @@ It’s around the 6 month mark at Startmate and I promised myself before making 
 
 Prior to Startmate I’d worked in a few roles but nothing that could quite prepare me for my first full-time gig in a new city. On top of this, I was the first growth hire, with no direct growth experience, in a team of ~15, working on a huge vision to make ANZ the best place in the world to start a startup.
 
-While on the job search I heard from a few people that it would take around 6 months to get used to things and be in the position to add value to a company. Since then I’ve had some thoughts on this topic.
+While on the job search I heard from a few people that it would take around 6 months to get used to things and be in the position to add value to a company. Since then I’ve had some thoughts on the topic.
 
 I’ll be exploring the dynamic between usefulness, context, and confidence. Note that I’m ignoring other factors like experience and natural inclination.
 
@@ -38,9 +38,9 @@ At least this is how I felt for a while. The problem is that having sufficient c
 
 This is where confidence comes in. I’m using confidence synonymously with taking action and contributing.
 
-Yes it takes long to build context, but, try not to confuse being able to add value with context. They relate, but they’re aren’t mutually exclusive.
+Yes it takes long to build context, but, try not to confuse being able to add value with context. They relate, but they aren’t mutually exclusive.
 
-You have to not only operate knowing you don’t understand everything, but also contribute on the basis of what you do know.
+You have to not only operate knowing you don’t understand things, but also contribute on the basis of what you do know.
 
 You shouldn’t let the pursuit of context make you believe that you can’t contribute meaningfully in the present.
 
@@ -50,9 +50,9 @@ I’ve struggled with this. It’s quite easy to feel that a lack of context (an
 
 ### Usefulness
 
-So what then does it mean to be useful? I see it largely as a mix of the two above factors.
+So what then does it mean to be useful? I see it largely as a mix of the above two factors.
 
-As your level of context ramps up, so will your ability to be useful. But, like I mentioned above, your confidence is a key part of this equation.
+As your level of context ramps up, so will your ability to be useful. But your confidence is a key part of this equation.
 
 You can have all the context in the world but if you don’t take action or contribute, you won’t be useful. You can have little context being new to the business, but still exercise what you do have along with other factors to be useful.
 
