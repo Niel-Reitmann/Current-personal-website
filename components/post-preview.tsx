@@ -11,7 +11,7 @@ type Props = {
 
 const PostPreview = ({ title, date, slug }: Props) => {
   return (
-    <div className="sm:w-[50%]">
+    <div className="sm:w-[80%]">
       <h3 className="text-3xl sm:mb-3 leading-snug">
         <Link
           as={`/posts/${slug}`}

@@ -20,7 +20,7 @@ I thought I’d kick off my writing with something light-ish and share some lear
 
 I’ve skewed this more towards the student audience since that’s where I’m best positioned.
 
-**Preserving optionality**
+### Preserving optionality
 
 I've seen that most ambitious students already have a vision of what their careers should look like.
 
@@ -36,7 +36,7 @@ Rather, every decision should, in a perfect world, end in a net positive of new 
 
 Be bold, don’t buy too deeply into many narratives, and be concious of not letting your environment determine your direction.
 
-**Obsession v Balance**
+### Obsession v Balance
 
 I'm not sure I've reached a great understanding here yet. The question is; does greatness only come from extremes?
 
@@ -48,7 +48,7 @@ If you genuinely feel like working on some sort of project and it’s a weekend,
 
 I think what adds difficulty to this topic is discipline. How do you know that if you don’t want to do something, it’s not just out of laziness? I reckon that is something you just have to figure out overtime by understanding yourself and building decent systems into your life.
 
-**Imposter syndrome**
+### Imposter syndrome
 
 Imposter syndrome is a fun one. I knew it would be there but I didn't quite understand its extent. My way of thinking about this is short but usually does the trick for me.
 
@@ -60,7 +60,7 @@ If you aren’t, it could be signal of stagnated growth.
 
 It then becomes more a question of how you handle imposter syndrome. Do you let it discourage you, or do you frame it in a way that makes you feel you're in the right place.
 
-**Context**
+### Context
 
 Understanding the history of a startup, the people who work there, the reason why certain things have been done, the strategy, the past strategies, the founders, failures, even the past employees and leadership, all matter.
 
@@ -68,7 +68,7 @@ Don’t just aim to understand your domain, but realise that all these pieces wo
 
 This takes a long time, but I’ve seen that it’s worth it if you want to do things well.
 
-**Who you come home to matters**
+### Who you come home to matters
 
 This one is a little bit different but worth a mention. I’m fortunate to be staying with a great group of people. People who I can learn from but also enjoy being around.
 
@@ -78,7 +78,7 @@ I’ve become very grateful for this. Having these people I can come home to mak
 
 My original thinking was that I’d be fine jumping between hostels, but I’m glad I didn’t. My takeaway here is that it’s important to make connections even before you move. Don’t let yourself become isolated.
 
-**Depend more on your design**
+### Depend more on your design
 
 It’s easy to underestimate adaptation. If you told me three years ago I would be in Australia I’d think its too big of a shift. If you told me one year ago I’d be deferring and moving to Sydney alone I’d likely think the same.
 
@@ -86,7 +86,7 @@ Most people will go through these changes, or at least be presented with similar
 
 The time it takes to get used to these changes will be proportional to its difference from what you are currently used to, but it’s a reliable thinking and worth being more concious of.
 
-**Think critically**
+### Think critically
 
 There are things in the startup/tech space you will hear lots of people talk about. It’s quite interesting.
 

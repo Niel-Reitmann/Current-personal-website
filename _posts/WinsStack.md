@@ -16,7 +16,7 @@ What this means is that in each action, we either live up to this version of sel
 
 The topic I want to explore is the effects of living up to or falling short of this version of self and the impact it has on our lives.
 
-**Why we do things well**
+### Why we do things well
 
 An example that works quite well here is our schooling grade system. In grade 12, we each receive an ATAR. This ATAR determines which universities and degrees you can get into after graduating high school.
 
@@ -28,7 +28,7 @@ If you meet the subconscious standard of "success" in your mind during grade 12,
 
 The psychological impact of meeting these standards versus experiencing a moral failing/shortcoming can be more powerful than we realize. I would argue that this is more important to consider than the ATAR itself.
 
-**Anchors**
+### Anchors
 
 The way I like to think about this is that you'd be creating anchors throughout your life where you lived up to your ideal self in a specific area that you can reflect back on during hardships.
 
@@ -42,6 +42,6 @@ If you set a goal to run 30 kilometers weekly and sleep through your first morni
 
 The opposite is also true, hence the name 'wins stack'. If you consistently live up to a higher version of yourself, you are more likely to continue doing so, gradually becoming this person you've internalized.
 
-**Change in thinking**
+### Change in thinking
 
 It's not an overly complex topic, but one that I think is worth reflecting on. When you choose not to go for that run or don't put decent effort into a project, you are not only missing out on the health or financial benefits, but you are also missing an opportunity to build another anchor into your life and create the first win of which many will continue to stack.

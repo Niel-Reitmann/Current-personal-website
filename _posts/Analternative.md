@@ -24,7 +24,7 @@ It looks roughly like this;
 
 Treat it almost like you'd treat a product in testing.
 
-**Evaluate your 'best' options**
+### Evaluate your 'best' options
 
 'Best' here meaning the career pathways you are most likely to find purpose in.
 
@@ -34,7 +34,7 @@ From this quick reflection, her top career options look as follows; psychology, 
 
 The thinking here is to evaluate your life up until this point and come up with a few areas you feel are worth exploring. What past work has given you energy? Where do you already have some experience? Where are your curiosities?
 
-**Biggest assumptions**
+### Biggest assumptions
 
 In Rebeccas case, her assumptions here might look something like this;
 
@@ -42,7 +42,7 @@ In Rebeccas case, her assumptions here might look something like this;
 
 Basic example but you get the idea.
 
-**Test the assumptions**
+### Test the assumptions
 
 How can you test these assumptions? It’s likely not going to be diving straight into a 4 year degree. Nor is it likely to be locking yourself in a full-time finance gig.
 
@@ -56,7 +56,7 @@ It's crazy to me that most students can't even explain what the day to day of th
 
 She does the same for finance and creative roles by lining up more calls with people in both industries. Conclusion is that she wants to explore both more deeply.
 
-**Create work where you're more curious**
+### Create work where you're more curious
 
 Rebecca hit some luck here with her parents already having a reputation in finance. She leverages this to land a few weeks of work experience at a local firm. While she’s there she asks as many questions as she can and shadows people at various levels of seniority.
 
@@ -74,7 +74,7 @@ She walks through her thinking and offers to work for the creator on a project s
 
 This leads to a few weeks work. She loves it and goes on to study design where she excels and becomes excited for her future. The way it should be.
 
-**Iterate**
+### Iterate
 
 Rebecca is one of the lucky few who find some kind of purpose that early. It’s more likely you go through the above steps and still don’t know what you want to do. Rather you just have a few crossed off the list.
 
