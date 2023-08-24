@@ -38,7 +38,7 @@ At least this is how I felt for a while. The problem is that having sufficient c
 
 This is where confidence comes in. I’m using confidence synonymously with taking action and contributing.
 
-Yes it takes long to build context BUT try not to confuse being able to add value with context. They relate, but they’re aren’t mutually exclusive.
+Yes it takes long to build context, but, try not to confuse being able to add value with context. They relate, but they’re aren’t mutually exclusive.
 
 You have to not only operate knowing you don’t understand everything, but also contribute on the basis of what you do know.
 
@@ -52,7 +52,7 @@ I’ve struggled with this. It’s quite easy to feel that a lack of context (an
 
 So what then does it mean to be useful? I see it as largely a mix of the two above factors.
 
-As your level of context ramps up, so will your ability to be useful. BUT, like I mentioned above, your confidence is a key part of the equation.
+As your level of context ramps up, so will your ability to be useful. But, like I mentioned above, your confidence is a key part of this equation.
 
 You can have all the context in the world but if you don’t take action or contribute, you won’t be useful. You can have little context being new to the business, but still exercise what you do have along with other factors to be useful.
 
