@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-I left university after the first year university to pursue startups and tech at the age of 19. Since then, I’ve moved to Sydney and have been working as a Growth Associate at _[Startmate](https://www.startmate.com/)_, Australia’s top accelerator for early-stage startups.
+I left university after first year university to pursue startups and tech at the age of 19. Since then, I’ve moved to Sydney and have been working as a Growth Associate at _[Startmate](https://www.startmate.com/)_, Australia’s top accelerator for early-stage startups.
 
 Check out my LinkedIn post _[here](https://www.linkedin.com/posts/niel-reitmann_i-left-university-after-first-year-to-pursue-activity-7094589727231635459-_bDW?utm_source=share&utm_medium=member_desktop)._
 
