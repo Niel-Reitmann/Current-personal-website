@@ -50,7 +50,7 @@ I’ve struggled with this. It’s quite easy to feel that a lack of context (an
 
 ### Usefulness
 
-So what then does it mean to be useful? I see it as largely a mix of the two above factors.
+So what then does it mean to be useful? I see it largely as a mix of the two above factors.
 
 As your level of context ramps up, so will your ability to be useful. But, like I mentioned above, your confidence is a key part of this equation.
 
