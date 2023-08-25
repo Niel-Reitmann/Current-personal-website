@@ -168,7 +168,7 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex sm:basis-[46%] w-full text-gray-500 flex justify-center items-center">
+              <div className="flex sm:basis-[46%] w-full text-gray-500 justify-center items-center">
                 <div className="project h-full flex justify-start items-center min-w-100 flex-basis-0 sm:flex-1-0-10">
                   <img
                     className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
