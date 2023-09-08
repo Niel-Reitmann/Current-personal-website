@@ -88,6 +88,8 @@ The growth role at Startmate came up and moved to the top of my list. _[Cam](htt
 
 During this time, I was doing contract work for _[EntryLevel](https://www.entrylevel.net/)_, a job I was referred to through the Student Fellowship. It was probably my first real tech startup position with a top-tier team.
 
+### Sydney (2023-present)
+
 I convinced my parents that, to make this work, even though I didn't have any offers or accommodation yet, I needed to be in Sydney for in-person interviews. They supported this, and I flew to Sydney in late January this year. That very first weekend, I received a call from _[Phoebe](https://www.linkedin.com/in/phoebe-pincus-a84150170/)_ congratulating me on my role with Startmate.
 
 Accommodation was a separate problem. A great spot opened up but garnered a lot of interest. It was with a group of other startup employees. I knew one of them through a series of Twitter introductions and another through Flaming Galahs. Even though they had already received around 40 applicants, they put everything on hold and allowed me to check out the room. The rest is history!
