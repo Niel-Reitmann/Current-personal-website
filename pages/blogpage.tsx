@@ -21,6 +21,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/websitefav.png" />
           <title>{`Niel Reitmann`}</title>
         </Head>
         <Container>
