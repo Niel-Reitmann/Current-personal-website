@@ -5,3 +5,7 @@
 a {
     color: purple;
 }
+
+h3 > a {
+    color: black !important;
+}

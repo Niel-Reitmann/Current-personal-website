@@ -105,7 +105,7 @@ export default function Home() {
                   </div>
                   <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
                     <a href="https://www.startmate.com/?utm_source=Google&utm_medium=NielWebsite&utm_campaign=NielWebsite">
-                      <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
+                      <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform text-gray-500">
                         View
                       </div>
                     </a>
@@ -133,7 +133,7 @@ export default function Home() {
                   </div>
                   <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
                     <a href="https://galah.community/">
-                      <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
+                      <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform text-gray-500">
                         View
                       </div>
                     </a>
@@ -160,7 +160,7 @@ export default function Home() {
                   </div>
                   <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
                     <a href="https://youtu.be/2agY80N9i4w">
-                      <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
+                      <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform text-gray-500">
                         View
                       </div>
                     </a>
@@ -185,7 +185,7 @@ export default function Home() {
                 </div>
                 <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
                   <a href="https://www.facebook.com/uqiesociety/">
-                    <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform">
+                    <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform text-gray-500">
                       View
                     </div>
                   </a>

@@ -11,9 +11,11 @@ type Props = {
 const PostHeader = ({ title, date }: Props) => {
   return (
     <>
-      <PostTitle>{title}</PostTitle>
-      <div className="mb-6 text-lg">
-        <DateFormatter dateString={date} />
+      <div className="text-black" v>
+        <PostTitle>{title}</PostTitle>
+        <div className="mb-6 text-lg">
+          <DateFormatter dateString={date} />
+        </div>
       </div>
     </>
   );
