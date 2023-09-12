@@ -10,19 +10,23 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-This writing serves as a recollection of the most significant events that led to my current position, mainly as a way for me to have a record.
+This writing is a recollection of the most significant events that led to my current position, mainly as a way for me to have a record.
 
 I was born and raised in Cape Town, South Africa, where there weren't many opportunities for young people to do interesting work.
 
-My parents decided we would move to Australia at the end of 2019. If you know a bit about South Africa, this decision will make sense. It's a beautiful country, but it's moving in an unfortunate direction.
+My parents decided we would move to Australia at the end of 2019. If you know a bit about South Africa, this decision will make sense. Incredible country, but it's moving in an unfortunate direction.
 
 ### Sunshine Coast (2019-2021)
 
-My brother and I did grades 11 and 12 on the Sunshine Coast in Queensland. It was a big change, and frankly, quite exciting for us.
+My brother and I did grades 11 and 12 on the Sunshine Coast in Queensland.
 
-We kicked off with an eight-month stint at Domino's doing e-bike deliveries, and I remember how incredible it felt to be paid $11 an hour compared to the $2 minimum wage back home.
+We kicked off our first job with an eight-month stint at Domino's doing e-bike delivery. I remember how incredible it felt to be paid $11 an hour compared to the $2 minimum wage back home.
 
-During this time, I started having coffees with people doing cool stuff, mainly those I met through church. My dad also introduced my brother and I to a local co-working space, the Digital Hub in Peregian.
+During this time, I started having coffees with people doing cool stuff in business, mainly those I met through church.
+
+Noting that even further back in my life, the reason I was even interested in business, was the appeal of financial freedom. I think this started when my dad said I should read Rich Dad Poor Dad sometime in 2017 or 2018.
+
+My dad also introduced my brother and I to a local co-working space, the Digital Hub in Peregian.
 
 It was there that I first heard about Startmate from _[Vinko Grgic](https://www.linkedin.com/in/vinkogrgic/)._
 
