@@ -91,7 +91,7 @@ export default function Home() {
                     <img
                       className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
                       src="./SmLogo.jpeg"
-                      alt="Project 1"
+                      alt="Startmate"
                     />
                   </div>
                   <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
@@ -119,7 +119,7 @@ export default function Home() {
                     <img
                       className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
                       src="./Flaming Galah Logo.png"
-                      alt="Project 2"
+                      alt="Flaming Galahs"
                     />
                   </div>
                   <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
@@ -147,7 +147,7 @@ export default function Home() {
                     <img
                       className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
                       src="./Travelator1by1.png"
-                      alt="Project 3"
+                      alt="Travelator"
                     />
                   </div>
                   <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
@@ -173,7 +173,7 @@ export default function Home() {
                   <img
                     className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
                     src="./UQIESlogo.png"
-                    alt="Project 3"
+                    alt="UQ Innovation & Entrepreneurship Society"
                   />
                 </div>
                 <div className="flex flex-col flex-grow-0 flex-basis-60 pl-2">
