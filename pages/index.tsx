@@ -113,7 +113,7 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex sm:basis-[46%] w-full ">
+              <div className="flex sm:basis-[46%] w-full">
                 <div className="text-gray-500 flex justify-center items-center">
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
