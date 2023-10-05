@@ -38,27 +38,27 @@ I remember the three of us sitting in my room together, deciding which skills we
 
 (1) Freelance web development for a local copywriter who blogged & work experience at an agency called Social Tap → the local copywriter was a friend's mom, and the work experience was through school at the end of grade 11.
 
-(2) Interning/work experience at a local real estate design & construction firm, _[Paul Clout Design](https://www.instagram.com/paulcloutdesign/)_ → following a coffee chat with the founder from church. I did this for 8 months after school.
+(2) Interning as a drafter at a local real estate design & construction firm, _[Paul Clout Design](https://www.instagram.com/paulcloutdesign/)_ → following a coffee chat with the founder from church. I did this for 8 months after school.
 
 (3) Interning, and eventually working in sales, at a local apparel startup called _[Abide](https://www.abideculture.com/)_ → this was also an introduction through church and connections from South Africa.
 
-All of this got me hooked to the opportunities Australia had to offer. Even when I had no idea what I was doing.
+All of this got me hooked to the opportunities Australia had to offer. Even though I had no idea what I was doing.
 
-Another significant event during this time was my school's career counselor encouraging two friends, my brother, and I to enter a pitch competition, _[UQ Ventures gen[in]](https://ventures.uq.edu.au/gen-in)._
+Another significant event during this time was my school's career counselor, _[Natasha Purcell](https://www.linkedin.com/in/natashapurcell/)_, encouraging two friends, my brother, and I to enter a pitch competition, _[UQ Ventures gen[in]](https://ventures.uq.edu.au/gen-in)_.
 
-With some hesitation, we decided to do it, and the school drove us to UQ over that weekend. Our idea was _[Travelator](https://www.youtube.com/watch?v=2agY80N9i4w&feature=youtu.be)_, an affiliate marketing tourism tech company connecting local tourism influencers to adventure businesses.
+With some hesitation, we decided to do it, and the school drove us to UQ over that weekend for pitches. Our idea was _[Travelator](https://www.youtube.com/watch?v=2agY80N9i4w&feature=youtu.be)_, an affiliate marketing tourism tech company connecting local tourism influencers to adventure businesses.
 
-We ended up working through the night on the pitch deck and won $1,000. This was the moment I fell in love with the chaos of working on a project with close friends.
+We ended up working through the night on the pitch deck and won $1,000. It was likely the moment I fell in love with the chaos of working on a project with close friends.
 
-Shortly after, we participated in another competition, _[Generation Innovation](https://www.generationinnovation.com.au/)_, and came close to running our MVP with Queensland's largest tourism provider.
+Shortly after, we participated in another competition, _[Generation Innovation](https://www.generationinnovation.com.au/)_, and were about to trial our MVP with Queensland's largest tourism provider.
 
-Progress died off when grade 12 exams hit.
+Momentum died off when grade 12 exams hit.
 
 ### Brisbane (2022-2023)
 
-After graduating high school, my brother and I moved to a college on the UQ campus in Brisbane for university. I decided to do a Bachelor of Advanced Business. Not for any particular reason, but because it seemed broad enough, and I knew I liked business.
+After graduating high school, my brother and I moved to a college on the UQ campus in Brisbane for university. I decided to do a Bachelor of Advanced Business (Hons). Not for any particular reason, but because it seemed broad enough, and I knew I liked business.
 
-Through the first Travelator pitch competition, we knew about UQ's Innovation & Entrepreneurship Society (_[UQIES](https://www.facebook.com/uqiesociety)_), and some of the execs already knew us. We became execs straight away, where I was in sponsorship.
+Through the first Travelator pitch competition, we knew about UQ's Innovation & Entrepreneurship Society (_[UQIES](https://www.facebook.com/uqiesociety)_), and some of the execs already knew us. We became execs straight away, where I was vice-president of sponsorship.
 
 During this time, I was having probably 3-4 coffees and calls with interesting people every week. Compared to the coast, so much more was happening in Brisbane and at UQ. It felt much more real.
 
