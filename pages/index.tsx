@@ -12,8 +12,8 @@ export default function Home() {
       <div className="w-full min-h-screen text-gray-500 flex flex-col justify-center items-center bg-white">
         <div className="flex flex-col w-1/1 sm:w-1/2 justify-center min-h-screen p-5 sm:px-5 gap-6 md:gap-10 md:px-0 ">
           <div className="text-3xl sm:text-5xl font-light leading-tight">
-            My name is Niel Reitmann. I'm currently a Product & Growth Associate
-            at{" "}
+            My name is Niel Reitmann. I'm currently a Product and Growth
+            Associate at{" "}
             <a
               href="https://www.startmate.com/?utm_source=Google&utm_medium=NielWebsite&utm_campaign=NielWebsite"
               className="text-black hover:underline transition duration-100"
