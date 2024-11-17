@@ -12,31 +12,30 @@ export default function Home() {
       <div className="w-full min-h-screen text-gray-500 flex flex-col justify-center items-center bg-white">
         <div className="flex flex-col w-1/1 sm:w-1/2 justify-center min-h-screen p-5 sm:px-5 gap-6 md:gap-10 md:px-0 ">
           <div className="text-3xl sm:text-5xl font-light leading-tight">
-            My name is Niel Reitmann. I'm currently a Product and Growth
-            Associate at{" "}
+            My name is Niel Reitmann. I'm currently a Associate Product Manager at{" "}
             <a
-              href="https://www.startmate.com/?utm_source=Google&utm_medium=NielWebsite&utm_campaign=NielWebsite"
+              href="https://www.atlassian.com/"
               className="text-black hover:underline transition duration-100"
             >
+              Atlassian
+            </a>
+            . Previously Product & Growth at{" "}
+            <a
+              href="https://www.startmate.com/ "
+              className="text-black hover:underline transition duration-100"
+            >
+              {" "}
               Startmate
             </a>
-            . Previously design at{" "}
+            ,{" "}
             <a
-              href="https://www.entrylevel.net/"
+              href="https://www.entrylevel.net/ "
               className="text-black hover:underline transition duration-100"
             >
               {" "}
               EntryLevel
-            </a>
-            ,{" "}
-            <a
-              href="https://www.facebook.com/uqiesociety/"
-              className="text-black hover:underline transition duration-100"
-            >
-              {" "}
-              UQIES
             </a>{" "}
-            Vice-President, Co-founder of{" "}
+            Learning Designer, Co-founder of{" "}
             <a
               href="https://drive.google.com/file/d/1qoGOsiCukKNY37tBBAq5Dx2K7zSIo5jv/view"
               className="text-black hover:underline transition duration-100"
