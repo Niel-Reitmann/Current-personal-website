@@ -19,7 +19,7 @@ export default function Home() {
             >
               Euc
             </a> {" "}
-             and comp sci student at UNSW. Previously product at
+             and cs at UNSW. Previously product at
             <a
               href="https://www.startmate.com/ "
               className="text-black hover:underline transition duration-100"
