@@ -17,7 +17,6 @@ export default function Home() {
               href="https://www.eucalyptus.health/ "
               className="text-black hover:underline transition duration-100"
             >
-              {" "}
               Euc
             </a>
              and comp sci student at UNSW. Previously product at
