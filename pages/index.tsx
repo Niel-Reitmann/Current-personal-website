@@ -194,7 +194,7 @@ export default function Home() {
                   </p>
                 </div>
                 <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
-                  <a href="https://www.facebook.com/uqiesociety/">
+                  <a href="https://www.eucalyptus.health/">
                     <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform text-gray-500">
                       View
                     </div>
