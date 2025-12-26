@@ -14,12 +14,18 @@ export default function Home() {
           <div className="text-3xl sm:text-5xl font-light leading-tight">
             Hello. My name is Niel Reitmann. Currently growth at{" "}
             <a
-              href="https://www.eucalyptus.health/ "
+              href="https://www.eucalyptus.health/"
               className="text-black hover:underline transition duration-100"
             >
               Euc
             </a>{" "}
-            and CS at UNSW. Previously at
+            <a
+              href="https://luckysaunahats.com/"
+              className="text-black hover:underline transition duration-100"
+            >
+              Lucky Sauna Hats
+            </a>
+            , and CS at UNSW. Previously at
             <a
               href="https://www.startmate.com/ "
               className="text-black hover:underline transition duration-100"
@@ -27,13 +33,12 @@ export default function Home() {
               {" "}
               Startmate
             </a>{" "}
-            and
             <a
               href="https://www.atlassian.com/ "
               className="text-black hover:underline transition duration-100"
             >
               {" "}
-              Atlassian
+              , Atlassian
             </a>
             ,{" "}
             <a
@@ -41,23 +46,8 @@ export default function Home() {
               className="text-black hover:underline transition duration-100"
             >
               {" "}
-              EntryLevel
-            </a>{" "}
-            , co-founder of{" "}
-            <a
-              href="https://drive.google.com/file/d/1qoGOsiCukKNY37tBBAq5Dx2K7zSIo5jv/view"
-              className="text-black hover:underline transition duration-100"
-            >
-              Flaming Galahs
-            </a>{" "}
-            and{" "}
-            <a
-              href="https://drive.google.com/file/d/1ri0wYzXAbHVwrk_a10ITqaIVeT0sMwmH/view"
-              className="text-black hover:underline transition duration-100"
-            >
-              Travelator
+              and EntryLevel.
             </a>
-            .
           </div>
           <div className="flex flex-wrap flex-row justify-start items-left gap-3 sm:gap-12">
             <a
@@ -126,21 +116,20 @@ export default function Home() {
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
                       className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
-                      src="./Flaming Galah Logo.png"
-                      alt="Flaming Galahs"
+                      src="./Atlassian.png"
+                      alt="Atlassian"
                     />
                   </div>
                   <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
                     <p className="projtitle m-1 text-base lg:text-lg">
-                      Flaming Galahs
+                      Atlassian
                     </p>
                     <p className="projdesc m-1 text-sm pr-2">
-                      A technology collective exclusively for Australia's
-                      university students.
+                      Teamwork solutions for high-performing teams.
                     </p>
                   </div>
                   <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
-                    <a href="https://galah.community/">
+                    <a href="https://community.developer.atlassian.com/t/forge-no-egress-web-triggers-eap-is-now-open-to-participation/88021">
                       <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform text-gray-500">
                         View
                       </div>
@@ -154,20 +143,20 @@ export default function Home() {
                   <div className="project h-full flex justify-start items-center min-w-100 flex-1-0-20">
                     <img
                       className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
-                      src="./Travelator1by1.png"
-                      alt="Travelator"
+                      src="./LuckySaunaHats.png"
+                      alt="Lucky Sauna Hats"
                     />
                   </div>
                   <div className="flex flex-col flex-grow-0 flex-basis-60% pl-2">
                     <p className="projtitle m-1 text-base lg:text-lg">
-                      Travelator
+                      Lucky Sauna Hats
                     </p>
                     <p className="projdesc m-1 text-sm pr-2">
-                      Pioneering the future of tourism influencer marketing.
+                      Bringing Sauna Hats to Australia.
                     </p>
                   </div>
                   <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
-                    <a href="https://youtu.be/2agY80N9i4w">
+                    <a href="https://luckysaunahats.com/">
                       <div className="btnsecondary inline-flex items-center relative rounded-md border border-gray-300 shadow-sm px-3 py-1 transition duration-200 ease-in-out hover:bg-gradient-to-r hover:from-gray-200 hover:via-gray-100 hover:to-gray-200 hover:transform text-gray-500">
                         View
                       </div>
