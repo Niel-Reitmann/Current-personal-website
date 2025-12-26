@@ -19,7 +19,7 @@ export default function Home() {
             >
               Euc
             </a>{" "}
-            and CS at UNSW. Previously product at
+            and CS at UNSW. Previously at
             <a
               href="https://www.startmate.com/ "
               className="text-black hover:underline transition duration-100"
@@ -43,7 +43,7 @@ export default function Home() {
               {" "}
               EntryLevel
             </a>{" "}
-            designer, co-founder of{" "}
+            , co-founder of{" "}
             <a
               href="https://drive.google.com/file/d/1qoGOsiCukKNY37tBBAq5Dx2K7zSIo5jv/view"
               className="text-black hover:underline transition duration-100"
@@ -189,8 +189,8 @@ export default function Home() {
                     Eucalyptus
                   </p>
                   <p className="projdesc m-1 text-sm pr-2">
-                    As a global telehealth provider, we're building a safe,
-                    effective and accessible future for medicine.
+                    Building a safe, effective and accessible future for
+                    medicine.
                   </p>
                 </div>
                 <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
