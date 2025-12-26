@@ -12,22 +12,22 @@ export default function Home() {
       <div className="w-full min-h-screen text-gray-500 flex flex-col justify-center items-center bg-white">
         <div className="flex flex-col w-1/1 sm:w-1/2 justify-center min-h-screen p-5 sm:px-5 gap-6 md:gap-10 md:px-0 ">
           <div className="text-3xl sm:text-5xl font-light leading-tight">
-            Hello. My name is Niel Reitmann. Currently product at{" "}
+            Hello. My name is Niel Reitmann. Currently growth at{" "}
             <a
               href="https://www.eucalyptus.health/ "
               className="text-black hover:underline transition duration-100"
             >
               Euc
-            </a> {" "}
-             and comp sci at UNSW. Previously product at
+            </a>{" "}
+            and CS at UNSW. Previously product at
             <a
               href="https://www.startmate.com/ "
               className="text-black hover:underline transition duration-100"
             >
               {" "}
               Startmate
-            </a>
-            {" "}and
+            </a>{" "}
+            and
             <a
               href="https://www.atlassian.com/ "
               className="text-black hover:underline transition duration-100"
@@ -180,15 +180,15 @@ export default function Home() {
                 <div className="project h-full flex justify-start items-center min-w-100 flex-basis-0 sm:flex-1-0-10">
                   <img
                     className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
-                    src="./UQIESlogo.png"
-                    alt="UQ Innovation & Entrepreneurship Society"
+                    src="./eucalyptusvc_logo.jpeg"
+                    alt="Eucalyptus"
                   />
                 </div>
                 <div className="flex flex-col flex-grow-0 flex-basis-60 pl-2">
                   <p className="projtitle m-1 text-base lg:text-lg">UQIES</p>
                   <p className="projdesc m-1 text-sm pr-2">
-                    The most influential entrepreneurship society at The
-                    University of Queensland.
+                    As a global telehealth provider, we're building a safe,
+                    effective and accessible future for medicine.
                   </p>
                 </div>
                 <div className="viewbutton flex items-center flex-grow-0 flex-basis-20 text-sm">
