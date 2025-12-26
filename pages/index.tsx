@@ -17,13 +17,14 @@ export default function Home() {
               href="https://www.eucalyptus.health/"
               className="text-black hover:underline transition duration-100"
             >
-              Euc
-            </a>{" "}
+              Eucalyptus
+            </a>
             ,
             <a
               href="https://luckysaunahats.com/"
               className="text-black hover:underline transition duration-100"
             >
+              {" "}
               Lucky Sauna Hats
             </a>
             , and CS at UNSW. Previously at
@@ -38,7 +39,6 @@ export default function Home() {
               href="https://www.atlassian.com/ "
               className="text-black hover:underline transition duration-100"
             >
-              {" "}
               , Atlassian
             </a>
             , and{" "}
@@ -170,7 +170,7 @@ export default function Home() {
                 <div className="project h-full flex justify-start items-center min-w-100 flex-basis-0 sm:flex-1-0-10">
                   <img
                     className="h-[75px] w-[75px] max-w-none border-2 border-gray-400 rounded-2xl"
-                    src="./eucalyptusvc_logo.jpeg"
+                    src="./EucLogo2.png"
                     alt="Eucalyptus"
                   />
                 </div>
