@@ -185,7 +185,9 @@ export default function Home() {
                   />
                 </div>
                 <div className="flex flex-col flex-grow-0 flex-basis-60 pl-2">
-                  <p className="projtitle m-1 text-base lg:text-lg">UQIES</p>
+                  <p className="projtitle m-1 text-base lg:text-lg">
+                    Eucalyptus
+                  </p>
                   <p className="projdesc m-1 text-sm pr-2">
                     As a global telehealth provider, we're building a safe,
                     effective and accessible future for medicine.
