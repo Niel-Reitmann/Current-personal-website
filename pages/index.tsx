@@ -19,6 +19,7 @@ export default function Home() {
             >
               Euc
             </a>{" "}
+            ,
             <a
               href="https://luckysaunahats.com/"
               className="text-black hover:underline transition duration-100"
@@ -32,7 +33,7 @@ export default function Home() {
             >
               {" "}
               Startmate
-            </a>{" "}
+            </a>
             <a
               href="https://www.atlassian.com/ "
               className="text-black hover:underline transition duration-100"
@@ -40,13 +41,13 @@ export default function Home() {
               {" "}
               , Atlassian
             </a>
-            ,{" "}
+            , and{" "}
             <a
               href="https://www.entrylevel.net/ "
               className="text-black hover:underline transition duration-100"
             >
               {" "}
-              and EntryLevel.
+              EntryLevel.
             </a>
           </div>
           <div className="flex flex-wrap flex-row justify-start items-left gap-3 sm:gap-12">
