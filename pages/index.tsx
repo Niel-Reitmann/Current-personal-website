@@ -56,10 +56,10 @@ export default function Home({ allPosts }: Props) {
       <div className="w-full min-h-screen text-gray-500 flex flex-col items-center bg-white">
         <main className="flex flex-col w-full max-w-xl p-5 py-10 sm:py-16 gap-10">
           <section className="flex flex-col gap-5">
-            <p className="text-lg text-gray-400">Hey, I&apos;m Niel Reitmann 👋</p>
+            <p className="text-lg text-gray-400">Hi, I&apos;m Niel 👋</p>
             <p className="text-2xl sm:text-4xl font-light leading-snug text-black">
               I know some things now that I wish I knew when I was younger. I
-              have by no means figured it all out. But this is for people with
+              have by no means figured it all out, but this is for people with
               similar interests a few steps behind.
             </p>
             <p className="text-xl sm:text-2xl font-light leading-snug">
