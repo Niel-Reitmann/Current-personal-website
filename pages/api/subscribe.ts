@@ -42,7 +42,7 @@ export default async function handler(
   const supabase = getSupabaseAdmin();
   if (!supabase) {
     console.error("subscribe: Supabase env vars are not set");
-    return res.status(500).json({ ok: false, reason: "config" });
+    return res.status(500).json({ ok: false });
   }
 
   // Duplicates are ignored, and we always answer ok, so nobody can use this
@@ -53,8 +53,7 @@ export default async function handler(
 
   if (error) {
     console.error("subscribe: insert failed", error.message);
-    // TEMPORARY while setting up: short code only, no details. Remove once signup works.
-    return res.status(500).json({ ok: false, reason: "db", code: error.code });
+    return res.status(500).json({ ok: false });
   }
 
   return res.status(200).json({ ok: true });
