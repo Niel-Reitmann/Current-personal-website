@@ -53,9 +53,8 @@ export default function Home({ allPosts }: Props) {
             <div className="flex flex-col gap-5">
               <p className="font-heading text-xl font-medium">Hi, I&apos;m Niel</p>
               <p className="font-heading text-[28px] sm:text-4xl md:text-[44px] font-medium leading-tight tracking-tight">
-                I know some things now that I wish I knew when I was younger. I
-                have by no means figured it all out, but this is for people with
-                similar interests a few steps behind.
+                I know some things now that I wish I knew when I was younger. This
+                is for people with similar interests a few steps behind.
               </p>
               <p className="text-lg sm:text-xl md:text-2xl leading-snug text-ink/60">
                 My mission is to get more young people excited about their
