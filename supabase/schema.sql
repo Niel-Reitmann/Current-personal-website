@@ -17,3 +17,9 @@ create table public.subscribers (
 -- That means the public (anon) key can neither read nor write this table.
 -- Only the server, using the secret service-role key, can touch it.
 alter table public.subscribers enable row level security;
+
+-- Explicit permissions (needed if "Automatically expose new tables" was turned off
+-- when the project was created, and harmless if it was left on):
+-- the public-facing roles get nothing; only the server's service_role can use the table.
+revoke all on public.subscribers from anon, authenticated;
+grant select, insert, update, delete on public.subscribers to service_role;
