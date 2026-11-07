@@ -44,7 +44,7 @@ export default function Home({ allPosts }: Props) {
         <title>{`Niel Reitmann`}</title>
         <link rel="icon" href="/websitefav.png" />
       </Head>
-      <div className="w-full min-h-screen bg-canvas text-ink font-body flex flex-col items-center">
+      <div className="w-full min-h-screen text-ink font-body flex flex-col items-center">
         <main className="flex flex-col w-full max-w-xl md:max-w-2xl px-5 py-10 sm:py-16 md:py-24 gap-14">
           <section className="flex flex-col gap-8">
             <SiteHeader />
@@ -67,7 +67,7 @@ export default function Home({ allPosts }: Props) {
             <MoreStories posts={allPosts} />
           </section>
 
-          <section className="flex flex-col gap-5 border-t border-ink/10 pt-8">
+          <section className="flex flex-col gap-5">
             <h2 className={label}>Worked with</h2>
             <div className="flex flex-wrap items-center gap-6">
               {credibility.map((c) => (

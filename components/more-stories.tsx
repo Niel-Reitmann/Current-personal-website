@@ -8,14 +8,15 @@ type Props = {
 
 const MoreStories = ({ posts }: Props) => {
   return (
-    <ul className="flex flex-col gap-6">
-      {posts.map((post) => (
+    <ul className="flex flex-col">
+      {posts.map((post, i) => (
         <PostPreview
           key={post.slug}
           title={post.title}
           date={post.date}
           slug={post.slug}
           hook={hooks[post.slug]}
+          number={posts.length - i}
         />
       ))}
     </ul>
