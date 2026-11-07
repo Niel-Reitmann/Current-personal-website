@@ -1,35 +1,24 @@
-import Container from "../components/container";
-import MoreStories from "../components/more-stories";
-import HeroPost from "../components/hero-post";
 import Layout from "../components/layout";
+import SiteHeader from "../components/site-header";
+import MoreStories from "../components/more-stories";
 import { getAllPosts } from "../lib/api";
 import Head from "next/head";
-import { CMS_NAME } from "../lib/constants";
 import Post from "../interfaces/post";
-import { useRouter } from "next/router";
-import ErrorPage from "next/error";
-import BlogHeader from "../components/blogheader";
 
 type Props = {
   allPosts: Post[];
 };
 
 export default function Index({ allPosts }: Props) {
-  const heroPost = allPosts[0];
-  const morePosts = allPosts;
   return (
-    <>
-      <Layout>
-        <Head>
-          <link rel="icon" href="/websitefav.png" />
-          <title>{`Niel Reitmann`}</title>
-        </Head>
-        <Container>
-          <BlogHeader />
-          <MoreStories posts={morePosts} />
-        </Container>
-      </Layout>
-    </>
+    <Layout path="/blog">
+      <Head>
+        <link rel="icon" href="/websitefav.png" />
+        <title>{`Niel Reitmann`}</title>
+      </Head>
+      <SiteHeader />
+      <MoreStories posts={allPosts} />
+    </Layout>
   );
 }
 

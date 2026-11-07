@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-a {
-    color: purple;
-}
-
-h3 > a {
-    color: black !important;
+@layer base {
+    body {
+        @apply bg-canvas text-ink font-body;
+        background-image: url("/topo.svg");
+        background-size: 1000px 1000px;
+    }
 }

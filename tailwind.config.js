@@ -9,6 +9,14 @@ module.exports = {
         'accent-7': '#333',
         success: '#0070f3',
         cyan: '#79FFE1',
+        canvas: '#FAF9F6',
+        ink: '#15171C',
+        accent: '#1F4D3A',
+      },
+      fontFamily: {
+        heading: ['"Inter Tight"', 'system-ui', 'sans-serif'],
+        body: ['Inter', 'system-ui', 'sans-serif'],
+        mono: ['"JetBrains Mono"', 'ui-monospace', 'monospace'],
       },
       spacing: {
         28: '7rem',

@@ -1,6 +1,4 @@
-import Avatar from "./avatar";
 import DateFormatter from "./date-formatter";
-import CoverImage from "./cover-image";
 import PostTitle from "./post-title";
 
 type Props = {
@@ -10,12 +8,12 @@ type Props = {
 
 const PostHeader = ({ title, date }: Props) => {
   return (
-    <>
+    <header className="flex flex-col gap-3 mb-8">
       <PostTitle>{title}</PostTitle>
-      <div className="mb-6 text-lg">
+      <span className="font-mono text-xs text-ink/40">
         <DateFormatter dateString={date} />
-      </div>
-    </>
+      </span>
+    </header>
   );
 };
 
