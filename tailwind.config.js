@@ -11,7 +11,7 @@ module.exports = {
         cyan: '#79FFE1',
         canvas: '#FAF9F6',
         ink: '#15171C',
-        accent: '#C93F08',
+        accent: '#1F4D3A',
       },
       fontFamily: {
         heading: ['"Inter Tight"', 'system-ui', 'sans-serif'],
