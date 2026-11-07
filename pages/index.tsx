@@ -45,17 +45,17 @@ export default function Home({ allPosts }: Props) {
         <link rel="icon" href="/websitefav.png" />
       </Head>
       <div className="w-full min-h-screen bg-canvas text-ink font-body flex flex-col items-center">
-        <main className="flex flex-col w-full max-w-xl px-5 py-10 sm:py-16 gap-14">
+        <main className="flex flex-col w-full max-w-xl md:max-w-2xl px-5 py-10 sm:py-16 md:py-24 gap-14">
           <section className="flex flex-col gap-8">
             <SiteHeader />
             <div className="flex flex-col gap-5">
               <p className="font-heading text-xl font-medium">Hi, I&apos;m Niel</p>
-              <p className="font-heading text-[28px] sm:text-4xl font-medium leading-tight tracking-tight">
+              <p className="font-heading text-[28px] sm:text-4xl md:text-[44px] font-medium leading-tight tracking-tight">
                 I know some things now that I wish I knew when I was younger. I
                 have by no means figured it all out, but this is for people with
                 similar interests a few steps behind.
               </p>
-              <p className="text-lg sm:text-xl leading-snug text-ink/60">
+              <p className="text-lg sm:text-xl md:text-2xl leading-snug text-ink/60">
                 My mission is to get more young people excited about their
                 careers and what their lives could look like.
               </p>

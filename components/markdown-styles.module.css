@@ -1,5 +1,5 @@
 .markdown {
-  @apply text-[17px] leading-relaxed text-ink/90;
+  @apply text-[17px] md:text-lg leading-relaxed text-ink/90;
 }
 
 .markdown p,
