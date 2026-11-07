@@ -1,30 +1,28 @@
-import Avatar from "./avatar";
 import DateFormatter from "./date-formatter";
-import CoverImage from "./cover-image";
 import Link from "next/link";
 
 type Props = {
   title: string;
   date: string;
   slug: string;
+  hook?: string;
 };
 
-const PostPreview = ({ title, date, slug }: Props) => {
+const PostPreview = ({ title, date, slug, hook }: Props) => {
   return (
-    <div className="sm:w-[80%] text-black">
-      <h3 className="text-3xl sm:mb-3 leading-snug text-black">
-        <Link
-          as={`/posts/${slug}`}
-          href="/posts/[slug]"
-          className="hover:underline"
-        >
-          {title}
-        </Link>
-      </h3>
-      <div className="text-lg mb-4">
+    <li className="flex flex-col gap-1">
+      <Link
+        as={`/posts/${slug}`}
+        href="/posts/[slug]"
+        className="font-heading text-xl font-medium leading-snug text-ink hover:text-accent transition-colors"
+      >
+        {title}
+      </Link>
+      {hook && <p className="text-sm text-ink/60">{hook}</p>}
+      <span className="font-mono text-xs text-ink/40">
         <DateFormatter dateString={date} />
-      </div>
-    </div>
+      </span>
+    </li>
   );
 };
 

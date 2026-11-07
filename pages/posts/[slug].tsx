@@ -1,8 +1,8 @@
 import { useRouter } from "next/router";
 import ErrorPage from "next/error";
-import Container from "../../components/container";
+import Link from "next/link";
 import PostBody from "../../components/post-body";
-import Header from "../../components/header";
+import SiteHeader from "../../components/site-header";
 import PostHeader from "../../components/post-header";
 import Layout from "../../components/layout";
 import { getPostBySlug, getAllPosts } from "../../lib/api";
@@ -26,21 +26,24 @@ export default function Post({ post, morePosts, preview }: Props) {
   }
   return (
     <Layout preview={preview}>
-      <Container>
-        <Header />
-        {router.isFallback ? (
-          <PostTitle>Loading…</PostTitle>
-        ) : (
-          <>
-            <article className="mb-32">
-              <Head>
-                <title>{title}</title>
-              </Head>
-              <PostBody content={post.content} />
-            </article>
-          </>
-        )}
-      </Container>
+      <SiteHeader />
+      {router.isFallback ? (
+        <PostTitle>Loading…</PostTitle>
+      ) : (
+        <article className="mb-12">
+          <Head>
+            <title>{title}</title>
+          </Head>
+          <PostHeader title={post.title} date={post.date} />
+          <PostBody content={post.content} />
+        </article>
+      )}
+      <Link
+        href="/#writing"
+        className="font-mono text-xs uppercase tracking-widest !text-ink/50 hover:!text-accent transition-colors"
+      >
+        ← All writing
+      </Link>
     </Layout>
   );
 }
