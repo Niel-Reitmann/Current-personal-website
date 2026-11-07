@@ -11,6 +11,7 @@ import Head from "next/head";
 import { CMS_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type PostType from "../../interfaces/post";
+import { hooks } from "../../lib/post-hooks";
 
 type Props = {
   post: PostType;
@@ -25,7 +26,13 @@ export default function Post({ post, morePosts, preview }: Props) {
     return <ErrorPage statusCode={404} />;
   }
   return (
-    <Layout preview={preview}>
+    <Layout
+      preview={preview}
+      title={title}
+      description={hooks[post.slug]}
+      path={`/posts/${post.slug}`}
+      type="article"
+    >
       <SiteHeader />
       {router.isFallback ? (
         <PostTitle>Loading…</PostTitle>

@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import SocialMeta from "../components/social-meta";
 import SiteHeader from "../components/site-header";
 import MoreStories from "../components/more-stories";
 import { getAllPosts } from "../lib/api";
@@ -40,6 +41,7 @@ const label =
 export default function Home({ allPosts }: Props) {
   return (
     <>
+      <SocialMeta />
       <Head>
         <title>{`Niel Reitmann`}</title>
         <link rel="icon" href="/websitefav.png" />

@@ -11,7 +11,7 @@ type Props = {
 
 export default function Index({ allPosts }: Props) {
   return (
-    <Layout>
+    <Layout path="/blog">
       <Head>
         <link rel="icon" href="/websitefav.png" />
         <title>{`Niel Reitmann`}</title>
