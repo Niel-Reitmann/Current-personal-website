@@ -58,14 +58,13 @@ export default function Home({ allPosts }: Props) {
           <section className="flex flex-col gap-5">
             <p className="text-lg text-gray-400">Hey, I&apos;m Niel Reitmann 👋</p>
             <p className="text-2xl sm:text-4xl font-light leading-snug text-black">
-              I&apos;m 22 and I haven&apos;t figured it all out. But I know that
-              what I&apos;ve learnt in the past few years would have meant a lot
-              to me at 18.
+              I know some things now that I wish I knew when I was younger. I
+              have by no means figured it all out. But this is for people with
+              similar interests a few steps behind.
             </p>
             <p className="text-xl sm:text-2xl font-light leading-snug">
-              This is for people with similar interests a few steps behind. My
-              mission is to get more young people excited about their careers
-              and what their lives could look like.
+              My mission is to get more young people excited about their
+              careers and what their lives could look like.
             </p>
           </section>
 
