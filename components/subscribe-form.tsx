@@ -25,7 +25,9 @@ const SubscribeForm = () => {
 
   if (status === "done") {
     return (
-      <p className="text-ink/70">Thanks, you&apos;re on the list.</p>
+      <p className="text-ink/70">
+        Thanks. Check your email to confirm your subscription.
+      </p>
     );
   }
 
