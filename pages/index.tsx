@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import SocialMeta from "../components/social-meta";
+import SubscribeForm from "../components/subscribe-form";
 import SiteHeader from "../components/site-header";
 import MoreStories from "../components/more-stories";
 import { getAllPosts } from "../lib/api";
@@ -66,6 +67,11 @@ export default function Home({ allPosts }: Props) {
           <section id="writing" className="flex flex-col gap-6">
             <h2 className={label}>Writing</h2>
             <MoreStories posts={allPosts} />
+          </section>
+
+          <section className="flex flex-col gap-4">
+            <h2 className={label}>Get new posts by email</h2>
+            <SubscribeForm />
           </section>
 
           <section className="flex flex-col gap-5">
