@@ -59,7 +59,7 @@ export default function Home({ allPosts }: Props) {
               </p>
               <p className="text-lg sm:text-xl md:text-2xl leading-snug text-ink/60">
                 My mission is to get more young people excited about their
-                careers and what their lives could look like.
+                careers.
               </p>
             </div>
           </section>
